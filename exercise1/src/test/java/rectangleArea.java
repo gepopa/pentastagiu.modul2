@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class areaUnuiDreptunghi {
+public class rectangleArea {
 
     public static void main(String args[])
     {
