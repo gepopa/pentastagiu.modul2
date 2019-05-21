@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f53737-6f62-4f59-ac47-fe66f60d06c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/convertStringToLowercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,11 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/oddNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="136">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/convertStringToLowercase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -105,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/test/java/computeDistanceByLongitudeAndLatitude.java" />
         <option value="$PROJECT_DIR$/src/test/java/reverseString.java" />
         <option value="$PROJECT_DIR$/src/test/java/oddNumbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/convertStringToLowercase.java" />
       </list>
     </option>
   </component>
@@ -176,14 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.oddNumbers">
-    <configuration name="areaUnuiDreptunghi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="areaUnuiDreptunghi" />
-      <module name="homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.convertStringToLowercase">
     <configuration name="areaUnuiHexagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areaUnuiHexagon" />
       <module name="homework" />
@@ -193,6 +197,13 @@
     </configuration>
     <configuration name="computeDistanceByLongitudeAndLatitude" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="computeDistanceByLongitudeAndLatitude" />
+      <module name="homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="convertStringToLowercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="convertStringToLowercase" />
       <module name="homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -261,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.convertStringToLowercase" />
         <item itemvalue="Application.oddNumbers" />
         <item itemvalue="Application.reverseString" />
         <item itemvalue="Application.computeDistanceByLongitudeAndLatitude" />
         <item itemvalue="Application.areaUnuiHexagon" />
-        <item itemvalue="Application.areaUnuiDreptunghi" />
       </list>
     </recent_temporary>
   </component>
@@ -322,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/computeDistanceByLongitudeAndLatitude.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -359,8 +363,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oddNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="136">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/reverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/convertStringToLowercase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
