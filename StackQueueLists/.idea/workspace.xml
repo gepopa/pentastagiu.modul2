@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddf61dfa-5c07-4f54-b11b-c513575280c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/StackExercisev3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StackExerciseFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,11 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StackExercisev3.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StackExerciseFinal.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/test/java/StackExercise.java" />
         <option value="$PROJECT_DIR$/src/test/java/StackExerciseV2.java" />
         <option value="$PROJECT_DIR$/src/test/java/StackExercisev3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StackExerciseFinal.java" />
       </list>
     </option>
   </component>
@@ -139,9 +153,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackExercisev3">
+  <component name="RunManager" selected="Application.StackExerciseFinal">
     <configuration name="StackExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackExercise" />
+      <module name="StackQueueLists" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackExerciseFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackExerciseFinal" />
       <module name="StackQueueLists" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,6 +191,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackExerciseFinal" />
         <item itemvalue="Application.StackExercisev3" />
         <item itemvalue="Application.StackExerciseV2" />
         <item itemvalue="Application.StackExercise" />
@@ -194,7 +216,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,7 +226,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,8 +281,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StackExercisev3.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StackExerciseFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
