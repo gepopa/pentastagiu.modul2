@@ -11,13 +11,13 @@ public class exercise6 {
 
             for (int i = 1; i <= 100; i++) {
                 if ((!( i % 5 == 0)) && ( i % 3 == 0))
-                    System.out.println(i + "Fizz ");
+                    System.out.println("Fizz ");
 
                 if ((!( i % 3 == 0)) && ( i % 5 == 0))
-                    System.out.println(i + "Buzz ");
+                    System.out.println("Buzz ");
 
                 if (( i % 5 == 0) && ( i % 3 == 0))
-                    System.out.println(i + "fizz buzz ");
+                    System.out.println("fizz buzz ");
         }
     }
 }
