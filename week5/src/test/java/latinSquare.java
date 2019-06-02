@@ -10,7 +10,7 @@ public class latinSquare {
         int n = 33;
         int k = n + 1;
 
-        for (int z = 0; n <= k ; z++) {
+        for (int z = 0; n <= k; z++) {
 
             for (int i = 0; i <= n; i++) {
                 // System.out.print(i);
